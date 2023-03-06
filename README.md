@@ -88,23 +88,11 @@
 
 
 ## Connect with me  
-<div align="center">
-<a href="https://github.com/febry05" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/xfeb" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/pebri-prasetyo-320b79102" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
+<p align="left">
+<a href="https://linkedin.com/in/pebri-prasetyo-320b79102" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/pebri-prasetyo-320b79102" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/xfeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="xfeb" height="30" width="40" /></a>
+<a href="https://instagram.com/febtyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="febtyo" height="30" width="40" /></a>
+</p>
   
 
 <br/>  
@@ -115,15 +103,6 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
